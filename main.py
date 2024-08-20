@@ -3,7 +3,7 @@ import json
 import requests
 
 url = 'https://rest.iad-06.braze.com/email/status'
-API_KEY = 'Bearer fa27c31c-e5fe-49c0-b453-f0b30d630beb'
+API_KEY = 'Bearer api_key'
 
 headers = {
     'Content-Type': 'application/json',
